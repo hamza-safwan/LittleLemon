@@ -10,3 +10,7 @@ class MenuItemTest(TestCase):
             inventory=4
         )
         self.assertEqual(str(item), "Tanjia : 15.99")
+
+
+class BookingItemTest(TestCase)
+    pass
